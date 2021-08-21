@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "46970296705",
+    "firebase_url": "https://tilsit-e9e75.firebaseio.com",
+    "project_id": "tilsit-e9e75",
+    "storage_bucket": "tilsit-e9e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:c68b04b2c54dfa67e07080",
+        "android_client_info": {
+          "package_name": "com.aistudio.crimsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:0035f555b7757e06e07080",
+        "android_client_info": {
+          "package_name": "com.aistudio.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:ac4cc871c28bf9dde07080",
+        "android_client_info": {
+          "package_name": "com.aistudio.konigsbergtravelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:cad8c52671985652e07080",
+        "android_client_info": {
+          "package_name": "com.aistudio.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:263661cbc8414841e07080",
+        "android_client_info": {
+          "package_name": "com.aistudio.t999"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:6015d5a6aca7f951e07080",
+        "android_client_info": {
+          "package_name": "com.crimsoftltd.tilsitcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:fbdd23038c6432afe07080",
+        "android_client_info": {
+          "package_name": "com.example.recycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46970296705:android:70aa4ecebd685685e07080",
+        "android_client_info": {
+          "package_name": "com.example.tilsit9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IrBQsEDmS2EXUn8_4Zu_pbDoJbQyi_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46970296705-b71i6c3budu8aiv7i4npdm0lb6g8tvpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
